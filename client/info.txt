@@ -1,1 +1,0 @@
-This is being run on a Linux computer!

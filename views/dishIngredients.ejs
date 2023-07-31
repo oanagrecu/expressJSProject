@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= name %> Ingredients</title>
+  </head>
+  <body>
+    <h1><%= name %> Ingredients</h1>
+    <ul>
+      <% ingredients.forEach((ingredient) => { %>
+      <li><%= ingredient %></li>
+      <% }) %>
+    </ul>
+  </body>
+</html>

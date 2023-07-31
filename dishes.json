@@ -1,0 +1,126 @@
+
+    [
+      {
+      "name": "Carbonara",
+      "timeToPrepare": "30 minutes",
+      "ingredients": ["pasta", "eggs", "bacon", "cheese", "garlic", "pepper"],
+      "steps": [
+        "Boil the pasta until al dente.",
+        "In a bowl, mix eggs, cheese, and pepper.",
+        "Fry the bacon and garlic in a pan.",
+        "Drain the pasta and add it to the pan with bacon.",
+        "Pour the egg mixture over the pasta and toss quickly.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "name": "Chicken",
+      "timeToPrepare": "25 minutes",
+      "ingredients": [
+        "chicken",
+        "bell peppers",
+        "broccoli",
+        "soy sauce",
+        "garlic",
+        "ginger"
+      ],
+      "steps": [
+        "Slice chicken and marinate it with soy sauce, garlic, and ginger.",
+        "Stir-fry chicken until cooked.",
+        "Add chopped bell peppers and broccoli.",
+        "Stir-fry until vegetables are tender.",
+        "Serve hot."
+      ]
+    },
+    {
+      "name": "Caprese Salad",
+      "timeToPrepare": "15 minutes",
+      "ingredients": [
+        "tomatoes",
+        "fresh mozzarella",
+        "basil leaves",
+        "balsamic glaze"
+      ],
+      "steps": [
+        "Slice tomatoes and fresh mozzarella.",
+        "Arrange them in layers with basil leaves.",
+        "Drizzle balsamic glaze on top.",
+        "Serve cold."
+      ]
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "timeToPrepare": "40 minutes",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "tomato sauce",
+        "onion",
+        "carrots",
+        "celery",
+        "garlic",
+        "olive oil"
+      ],
+      "steps": [
+        "Cook spaghetti according to package instructions.",
+        "In a pan, sauté onion, carrots, celery, and garlic in olive oil.",
+        "Add ground beef and cook until browned.",
+        "Pour in the tomato sauce and simmer for 20 minutes.",
+        "Serve sauce over cooked spaghetti."
+      ]
+    },
+    {
+      "name": "Garlic Butter Shrimp",
+      "timeToPrepare": "20 minutes",
+      "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley"],
+      "steps": [
+        "Peel and devein shrimp.",
+        "In a pan, melt butter and sauté minced garlic until fragrant.",
+        "Add shrimp and cook until pink.",
+        "Squeeze lemon juice and garnish with chopped parsley.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "name": "Vegetable Fried Rice",
+      "timeToPrepare": "25 minutes",
+      "ingredients": ["rice", "mixed vegetables", "soy sauce", "sesame oil", "egg"],
+      "steps": [
+        "Cook rice according to package instructions and let it cool.",
+        "In a pan, scramble the egg and set it aside.",
+        "Stir-fry mixed vegetables in sesame oil.",
+        "Add cooked rice and soy sauce.",
+        "Mix in the scrambled egg.",
+        "Serve hot."
+      ]
+    },
+    {
+      "name": "Classic Caesar Salad",
+      "timeToPrepare": "20 minutes",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "Caesar dressing"
+      ],
+      "steps": [
+        "Wash and chop romaine lettuce.",
+        "Add croutons and shaved parmesan cheese.",
+        "Toss with Caesar dressing.",
+        "Serve cold."
+      ]
+    },
+    {
+      "name": "Pasta Carbonara",
+      "timeToPrepare": "30 minutes",
+      "ingredients": ["pasta", "eggs", "bacon", "cheese", "garlic", "pepper"],
+      "steps": [
+        "Boil the pasta until al dente.",
+        "In a bowl, mix eggs, cheese, and pepper.",
+        "Fry the bacon and garlic in a pan.",
+        "Drain the pasta and add it to the pan with bacon.",
+        "Pour the egg mixture over the pasta and toss quickly.",
+        "Serve immediately."
+      ]
+    }
+  ]

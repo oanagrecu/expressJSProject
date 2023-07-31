@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= dish.name %></title>
+  </head>
+  <body>
+    <h1><%= dish.name %></h1>
+    <p>Time to Prepare: <%= dish.timeToPrepare %></p>
+    <h2>Ingredients:</h2>
+    <ul>
+      <% dish.ingredients.forEach((ingredient) => { %>
+      <li><%= ingredient %></li>
+      <% }) %>
+    </ul>
+    <h2>Steps:</h2>
+    <ol>
+      <% dish.steps.forEach((step) => { %>
+      <li><%= step %></li>
+      <% }) %>
+    </ol>
+  </body>
+</html>

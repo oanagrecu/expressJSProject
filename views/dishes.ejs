@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>All Dishes</title>
+  </head>
+  <body>
+    <h1>All Dishes</h1>
+    <% for (const dish of dishes) { %>
+    <h2><%= dish.name %></h2>
+    <p><strong>Time to Prepare:</strong> <%= dish.timeToPrepare %></p>
+    <p><strong>Ingredients:</strong></p>
+    <ul>
+      <% for (const ingredient of dish.ingredients) { %>
+      <li><%= ingredient %></li>
+      <% } %>
+    </ul>
+    <p><strong>Steps:</strong></p>
+    <ol>
+      <% for (const step of dish.steps) { %>
+      <li><%= step %></li>
+      <% } %>
+    </ol>
+    <hr />
+    <% } %>
+  </body>
+</html>
